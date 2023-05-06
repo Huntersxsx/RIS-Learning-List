@@ -14,7 +14,7 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 ## **Definition**
 
 **Referring Image Segmentation (RIS)** is a challenging problem at the intersection of computer vision and natural language processing. Given an image and a natural language expression, the goal is to produce a segmentation mask in the image corresponding to the objects referred by the the natural language expression.
-![image.png](https://intranetproxy.alipay.com/skylark/lark/0/2023/png/89956583/1677757350458-574efc92-d892-49c6-8250-889b6fae5945.png#clientId=u37709d7d-4ca2-4&from=paste&height=260&id=u1e1bdaaf&originHeight=519&originWidth=1281&originalType=binary&ratio=2&rotation=0&showTitle=false&size=221812&status=done&style=none&taskId=ub1837675-9998-444e-9eaf-3e7491a06ce&title=&width=640.5)
+![](https://github.com/Huntersxsx/RIS-Learning-List/blob/main/img/definition.png)
 
 ## **Datsets**
 - [**RefCOCO**](https://arxiv.org/pdf/1608.00272): It contains **19,994 images** with **142,210 referring expressions** for **50,000 objects**, which are collected from the MSCOCO via a two-player game. The dataset is split into 120,624 train, 10,834 validation, 5,657 test A, and 5,095 test B samples, respectively. 
