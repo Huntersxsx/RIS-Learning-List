@@ -29,14 +29,16 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 
 ## **Related Works**
 
-- Contrastive Grouping with Transformer for Referring Image Segmentation. *in CVPR 2023*. 
-- Learning to Segment Every Referring Object Point by Point. *in CVPR 2023*.
-- **Zero-shot RIS:** [Zero-shot Referring Image Segmentation with Global-Local Context Features](https://arxiv.org/pdf/2303.17811.pdf). *in CVPR 2023*. [code](https://github.com/Seonghoon-Yu/Zero-shot-RIS)
-- **MCRES:** [Meta Compositional Referring Expression Segmentation](https://arxiv.org/pdf/2304.04415.pdf). *in CVPR 2023*. 
+- **CM-MaskSD:** [CM-MaskSD: Cross-Modality Masked Self-Distillation for Referring Image Segmentation](https://arxiv.org/pdf/2305.11481.pdf). *in Arxiv 2023*.
+- **CGFormer:** [Contrastive Grouping with Transformer for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Tang_Contrastive_Grouping_With_Transformer_for_Referring_Image_Segmentation_CVPR_2023_paper.pdf). *in CVPR 2023*. [code](https://github.com/Toneyaya/CGFormer)
+- **Partial-RES:** [Learning to Segment Every Referring Object Point by Point](https://openaccess.thecvf.com/content/CVPR2023/papers/Qu_Learning_To_Segment_Every_Referring_Object_Point_by_Point_CVPR_2023_paper.pdf). *in CVPR 2023*. [code](https://github.com/qumengxue/Partial-RES.git)
+- **Zero-shot RIS:** [Zero-shot Referring Image Segmentation with Global-Local Context Features](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Zero-Shot_Referring_Image_Segmentation_With_Global-Local_Context_Features_CVPR_2023_paper.pdf). *in CVPR 2023*. [code](https://github.com/Seonghoon-Yu/Zero-shot-RIS)
+- **MCRES:** [Meta Compositional Referring Expression Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Xu_Meta_Compositional_Referring_Expression_Segmentation_CVPR_2023_paper.pdf). *in CVPR 2023*. 
 - **PolyFormer:** [PolyFormer: Referring Image Segmentation as Sequential Polygon Generation](https://arxiv.org/pdf/2302.07387.pdf). *in CVPR 2023*. [project](https://polyformer.github.io/)
-- **GRES:** Generalized Referring Expression Segmentation. *in CVPR 2023*. 
-- **SADLR:** [Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation](https://arxiv.org/pdf/2303.06345.pdf). *in AAAI 2023*. 
-- **PCAN:** [Position-Aware Contrastive Alignment for Referring Image Segmentation](https://arxiv.org/pdf/2212.13419.pdf). *in Arxiv 2022*. 
+- **GRES:** [Generalized Referring Expression Segmentation](https://openaccess.thecvf.com/content/CVPR2023/papers/Liu_GRES_Generalized_Referring_Expression_Segmentation_CVPR_2023_paper.pdf). *in CVPR 2023*. [project](https://henghuiding.github.io/GRES)
+- **SADLR:** [Semantics-Aware Dynamic Localization and Refinement for Referring Image Segmentation](https://arxiv.org/pdf/2303.06345.pdf). *in AAAI 2023*.
+- **PCAN:** [Position-Aware Contrastive Alignment for Referring Image Segmentation](https://arxiv.org/pdf/2212.13419.pdf). *in Arxiv 2022*.
+- **CoupAlign:** [CoupAlign: Coupling Word-Pixel with Sentence-Mask Alignments for Referring Image Segmentation](https://arxiv.org/pdf/2212.01769.pdf). *in NeurIPS 2022*. [code](https://gitee.com/mindspore/models/tree/master/research/cv/CoupAlign)
 - **CRSCNet:** [Cross-Modal Recurrent Semantic Comprehension for Referring Image Segmentation](https://ieeexplore.ieee.org/abstract/document/9998537). *in TCSVT 2022*.
 - **LGCT:** [Local-global coordination with transformers for referring image segmentation](https://www.sciencedirect.com/science/article/pii/S0925231222015119). *in Neurocomputing 2022*. 
 - **RES&REG:** [A Unified Mutual Supervision Framework for Referring Expression Segmentation and Generation](https://arxiv.org/pdf/2211.07919.pdf). *in Arxiv 2022*.
