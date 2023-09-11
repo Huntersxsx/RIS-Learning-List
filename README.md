@@ -170,5 +170,5 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 
 
 ## Reference
+
 [MarkMoHR / Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
->>>>>>> b9a3a4c91e17b067a52b1562390e2e675608f444
