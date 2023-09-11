@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **RIS-Learning-List**
 
 ## **Introduction**
