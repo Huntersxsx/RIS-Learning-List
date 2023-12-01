@@ -29,6 +29,9 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 
 ## **Related Works**
 
+- **TAS:** [Text Augmented Spatial-aware Zero-shot Referring Image Segmentation](https://arxiv.org/pdf/2310.18049.pdf). *in EMNLP 2023 Findings*. 
+- **CVMN:** [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879). *in ACM MM 2023*. [code](https://github.com/asudahkzj/CVMN)
+- **CARIS:** [CARIS: Context-Aware Referring Image Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3612117). *in ACM MM 2023*. [code](https://github.com/lsa1997/CARIS)
 - **Shatter and Gather:** [Shatter and Gather: Learning Referring Image Segmentation with Text Supervision](https://arxiv.org/pdf/2308.15512v1.pdf). *in ICCV 2023*.
 - **Group-RES:** [Advancing Referring Expression Segmentation Beyond Single Image](https://arxiv.org/pdf/2305.12452.pdf). *in ICCV 2023*. [code](https://github.com/yixuan730/group-res)
 - **ETRIS:** [Bridging Vision and Language Encoders: Parameter-Efficient Tuning for Referring Image Segmentation](https://arxiv.org/pdf/2307.11545.pdf). *in ICCV 2023*. [code](https://github.com/kkakkkka/ETRIS)
