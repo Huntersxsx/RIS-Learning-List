@@ -29,6 +29,8 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 
 ## **Related Works**
 
+- **JMCELN:** [Referring Image Segmentation via Joint Mask Contextual Embedding
+Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/). *in EMNLP 2023*. [code](https://github.com/toyottttttt/referring-segmentation)
 - **TAS:** [Text Augmented Spatial-aware Zero-shot Referring Image Segmentation](https://arxiv.org/pdf/2310.18049.pdf). *in EMNLP 2023 Findings*. 
 - **CVMN:** [Unsupervised Domain Adaptation for Referring Semantic Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3611879). *in ACM MM 2023*. [code](https://github.com/asudahkzj/CVMN)
 - **CARIS:** [CARIS: Context-Aware Referring Image Segmentation](https://dl.acm.org/doi/abs/10.1145/3581783.3612117). *in ACM MM 2023*. [code](https://github.com/lsa1997/CARIS)
@@ -58,6 +60,7 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 - [Instance-Specific Feature Propagation for Referring Segmentation](https://ieeexplore.ieee.org/abstract/document/9745353). *in TMM 2022*. 
 - **SeqTR:** [SeqTR: A Simple Yet Universal Network for Visual Grounding](https://arxiv.org/pdf/2203.16265.pdf). *in ECCV 2022*. [code](https://github.com/sean-zhuh/SeqTR)
 - **LAVT:** [LAVT: Language-Aware Vision Transformer for Referring Image Segmentation](https://arxiv.org/abs/2112.02244). *in CVPR 2022*. [code](https://github.com/yz93/LAVT-RIS)
+- **CRIS:** [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174). *in CVPR 2022*. [code](https://github.com/DerrickWang005/CRIS.pytorch)
 - **CRIS:** [CRIS: CLIP-Driven Referring Image Segmentation](https://arxiv.org/abs/2111.15174). *in CVPR 2022*. [code](https://github.com/DerrickWang005/CRIS.pytorch)
 - **ReSTR:** [ReSTR: Convolution-free Referring Image Segmentation Using Transformers](https://www.microsoft.com/en-us/research/uploads/prod/2022/03/01404.pdf). *in CVPR 2022*. [project](http://cvlab.postech.ac.kr/research/restr/)
 - [Bidirectional relationship inferring network for referring image localization and segmentation](https://ieeexplore.ieee.org/document/9526878). *in TNNLS 2021*. 
@@ -92,4 +95,6 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 ## Reference
 
 [MarkMoHR / Awesome-Referring-Image-Segmentation](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation)
+
+
 
