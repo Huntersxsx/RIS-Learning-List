@@ -29,6 +29,15 @@ This repository introduces **Referring Image Segmentation** task, and collects s
 
 ## **Related Works**
 
+- **MagNet:** [Mask Grounding for Referring Image Segmentation](https://arxiv.org/pdf/2312.12198.pdf). *in Arxiv 2023*. 
+- **MRES:** [Unveiling Parts Beyond Objects:
+Towards Finer-Granularity Referring Expression Segmentation](https://arxiv.org/pdf/2312.08007.pdf). *in Arxiv 2023*. [code](https://github.com/Rubics-Xuan/MRES)
+- [Towards Generalizable Referring Image Segmentation via
+Target Prompt and Visual Coherence](https://arxiv.org/pdf/2312.00452.pdf). *in Arxiv 2023*. 
+- **BTMAE:** [Synchronizing Vision and Language: Bidirectional Token-Masking AutoEncoder
+for Referring Image Segmentation](https://arxiv.org/pdf/2311.17952.pdf). *in Arxiv 2023*. 
+- **MARIS:** [MARIS: Referring Image Segmentation via Mutual-Aware Attention Features](https://arxiv.org/pdf/2311.15727.pdf). *in Arxiv 2023*. 
+- **Omni-RES:** [Towards Omni-supervised Referring Expression Segmentation](https://arxiv.org/pdf/2311.00397.pdf). *in Arxiv 2023*. [code](https://github.com/nineblu/omni-res)
 - **JMCELN:** [Referring Image Segmentation via Joint Mask Contextual Embedding
 Learning and Progressive Alignment Network](https://aclanthology.org/2023.emnlp-main.481/). *in EMNLP 2023*. [code](https://github.com/toyottttttt/referring-segmentation)
 - **TAS:** [Text Augmented Spatial-aware Zero-shot Referring Image Segmentation](https://arxiv.org/pdf/2310.18049.pdf). *in EMNLP 2023 Findings*. 
